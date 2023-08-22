@@ -1,0 +1,3 @@
+Han Solo,solo@falcon.com,greedoshotfirst
+Anakin Skywalker,ani@hoobah.com,ibuilt3po
+Greedo,greedo@cantina.com,liesalllies
